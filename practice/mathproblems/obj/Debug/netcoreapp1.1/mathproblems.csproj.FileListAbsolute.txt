@@ -1,0 +1,8 @@
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/bin/Debug/netcoreapp1.1/mathproblems.deps.json
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/bin/Debug/netcoreapp1.1/mathproblems.runtimeconfig.json
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/bin/Debug/netcoreapp1.1/mathproblems.runtimeconfig.dev.json
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/bin/Debug/netcoreapp1.1/mathproblems.dll
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/bin/Debug/netcoreapp1.1/mathproblems.pdb
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/obj/Debug/netcoreapp1.1/mathproblems.AssemblyInfo.cs
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/obj/Debug/netcoreapp1.1/mathproblems.dll
+/Users/lwood3499imac/PROGRAMMING/Udemy/C_Sharp/CSharpIntro/practice/mathproblems/obj/Debug/netcoreapp1.1/mathproblems.pdb
